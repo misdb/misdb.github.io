@@ -1,4 +1,4 @@
-# misdb.github.io
+# Welcome to Prof. Kim's Site
 Prof. Kim, Dae Ho
 
 
@@ -7,7 +7,7 @@ Prof. Kim, Dae Ho
 
 ### R
 
-- #### [R Tutorial](./R-Tutorial/index.html)
+- #### [R Tutorial](./R/R-Tutorial/index.html)
 
 - #### R for Big Data Analysis
 
