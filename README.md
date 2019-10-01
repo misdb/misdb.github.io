@@ -3,8 +3,6 @@ Prof. Kim, Dae Ho
 
 
 
-
-
 ### R
 
 - #### [R Tutorial](./R/R-Tutorial/index.html)
