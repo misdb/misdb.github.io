@@ -21,4 +21,5 @@ Prof. Kim, Dae Ho
 
 - [19th Presidential Vote](./R/GGMAP_19th_Presidential_Vote)
 - [Bus Information and Real-time Location of Bus in Seoul](./R/BusRoute_Seoul/index.html)
-- [Bus Information and Real-time Location of Bus in Daejeon
+- [Bus Information and Real-time Location of Bus in Daejeon](./R/BusRoute_Daejeon/index.html)
+
