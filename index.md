@@ -13,7 +13,7 @@ Prof. Kim, Dae Ho
 
 - #### [R for Big Data Analysis](./R/R-for-BigData-Analysis/index.html)
 
-- #### [Network Analysis and Visualization]((./R/R-for-Network-Analysis/index.html))
+- #### [Network Analysis and Visualization](./R/R-for-Network-Analysis/index.html)
 
 
 
