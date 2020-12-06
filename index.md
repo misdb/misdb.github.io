@@ -9,7 +9,7 @@ Prof. Kim, Dae Ho
 
 - #### [R for Data Management](./R/R-for-Data-Management/index.html)
 
-- #### [Statistics](./statistics/index.html)
+- #### [Statistics](https://kmis.gitbook.io/statistics/)
 
 - #### [R for Big Data Analysis](./R/R-for-BigData-Analysis/index.html)
 
