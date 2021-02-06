@@ -3,7 +3,7 @@
 
 
 
-### [R](./R)
+### R
 
 - [R-Tutorial](./R/R-Tutorial)
 
