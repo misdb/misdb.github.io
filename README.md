@@ -8,7 +8,11 @@
 
 - [R-Tutorial](./R/R-Tutorial)
 
-###[R-Studio](./R/R-Studio)
+### R Studio
+
+- [R Studio 활용](./R/R-Studio)
+
+./R/R-Studio)
 
 ### Tidyverse
 
