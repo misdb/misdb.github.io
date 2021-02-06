@@ -7,7 +7,7 @@
 
 - [R-Tutorial](https://github.com/misdb/R/tree/master/R-Tutorial)
 
-### [R-Studio](./R/R-Tutorial/index.html)
+### [R-Studio](./R/R-Studio)
 
 ### Tidyverse
 
