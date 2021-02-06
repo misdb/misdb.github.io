@@ -5,7 +5,9 @@ Prof. Kim, Dae Ho
 
 ### [R](./R)
 
-- [R-Tutorial](./R/R-Tutorial/index.html)
+- [R-Tutorial](https://github.com/misdb/R/tree/master/R-Tutorial)
+
+### [R-Studio](./R/R-Tutorial/index.html)
 
 ### Tidyverse
 

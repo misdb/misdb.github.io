@@ -1,12 +1,14 @@
 # Welcome to Prof. Kim's Site
 
-Prof. Kim, Dae Ho
+**Prof. Kim, Dae Ho**
 
 
 
 ### [R](./R)
 
 - [R-Tutorial](https://github.com/misdb/R/tree/master/R-Tutorial)
+
+### [R-Studio]((https://github.com/misdb/R/tree/master/R-Studio))
 
 ### Tidyverse
 
