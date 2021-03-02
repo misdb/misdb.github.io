@@ -5,6 +5,7 @@
 
 ### R
 
+- [R Programming][./R/R-Programming/index.html]
 - [R-Tutorial](./R/R-Tutorial)
 
 ### R Studio
